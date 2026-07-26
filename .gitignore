@@ -1,0 +1,13 @@
+# Environment variables (API keys, secrets)
+.env
+
+# ADK local session/state databases
+.adk/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Course materials (not for redistribution)
+00_docs/
+00_related_materials/
