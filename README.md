@@ -2,7 +2,7 @@
 
 A hands-on collection of agents built while working through Google's **Develop Agents with Agent Development Kit (ADK)** learning path. Each folder maps to a stage of that path, moving from a first "hello world" agent through to agents that plan, hold state, and call external tools.
 
-## Repository structure
+## Repository Structure
 
 | Folder | Focus |
 |---|---|
@@ -13,7 +13,7 @@ A hands-on collection of agents built while working through Google's **Develop A
 
 Each agent folder contains an `agent.py` (or `root_agent.yaml` for config-based agents) plus any supporting test scripts.
 
-## 01. Getting started
+## 01. Getting Started
 
 Environment setup and the fundamentals of an ADK agent.
 
@@ -24,7 +24,7 @@ Environment setup and the fundamentals of an ADK agent.
 
 Agents: `my_first_agent`, `my_config_agent`
 
-## 02. Optimise behaviour
+## 02. Optimise Behaviour
 
 Writing production-grade instructions and controlling model output.
 
@@ -35,7 +35,7 @@ Writing production-grade instructions and controlling model output.
 
 Agents: `customer_support_agent`, `product_extractor`, `model_comparison`, `problem_solver`
 
-## 03. Manage memory and state
+## 03. Manage Memory and State
 
 Giving agents programmatic control over data across a conversation.
 
@@ -46,7 +46,7 @@ Giving agents programmatic control over data across a conversation.
 
 Agents: `name_extractor`, `personalised_greeter`, `namespace_demo`
 
-## 04. Add capabilities with tools
+## 04. Add Capabilities with Tools
 
 Turning agents from responders into agents that can act.
 
@@ -58,7 +58,7 @@ Turning agents from responders into agents that can act.
 
 Agents: `geography_assistant`, `math_assistant`, `research_assistant`, `file_reader_assistant`, `travel_agent`, `customer_support_agent`
 
-## Course and reference material
+## Course & Reference Material
 
 This repo follows Google's public course and documentation for ADK:
 
