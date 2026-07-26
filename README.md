@@ -35,7 +35,7 @@ Writing production-grade instructions and controlling model output.
 
 Agents: `customer_support_agent`, `product_extractor`, `model_comparison`, `problem_solver`
 
-## 03. Manage Memory and State
+## 03. Manage Memory & State
 
 Giving agents programmatic control over data across a conversation.
 
@@ -62,16 +62,11 @@ Agents: `geography_assistant`, `math_assistant`, `research_assistant`, `file_rea
 
 This repo follows Google's public course and documentation for ADK:
 
-- [Engineer AI Agents with Agent Development Kit (ADK)](https://www.skills.google/course_templates/1382) — Google Cloud Skills Boost
-- [Understand Google Cloud Agents](https://www.skills.google/course_templates/1504)
-- [Build your first agent with Agent Development Kit (ADK)](https://www.skills.google/course_templates/1563)
+- [Develop Agents with Agent Development Kit (ADK)](https://www.skills.google/paths/3545)
 
 Official documentation referenced throughout:
 
 - [ADK documentation](https://google.github.io/adk-docs/)
-- [Google Search tool for ADK](https://google.github.io/adk-docs/tools/gemini-api/google-search/)
-- [Structuring data with ADK](https://google.github.io/adk-docs/agents/llm-agents/#structuring-data-input_schema-output_schema-output_key)
-- [Sequential agents](https://google.github.io/adk-docs/agents/workflow-agents/sequential-agents/)
 
 ## Prerequisites
 
