@@ -1,6 +1,8 @@
 # Developing Agents with Google ADK
 
-A hands-on collection of agents built while working through Google's **Develop Agents with Agent Development Kit (ADK)** learning path. Each folder maps to a stage of that path, moving from a first "hello world" agent through to agents that plan, hold state, and call external tools.
+A hands-on collection of agents built while working through Google's **Develop Agents with Agent Development Kit (ADK)** learning path. Each folder maps to a stage of that path, moving from a first "hello world" agent through to agents that plan, hold state, and call external tools. 
+
+Where the code contained differs to the code provided in the curriculum, there are typically comments to highlight where these changes have been made and why. Many of these were due to slight differences in the version of ADK and models used in the curriculum and those used by me throughout my study.
 
 ## Repository Structure
 
