@@ -1,8 +1,8 @@
 # Developing Agents with Google ADK
 
-A hands-on collection of agents built while working through Google's **Develop Agents with Agent Development Kit (ADK)** learning path. Each folder maps to a stage of that path, moving from a first "hello world" agent through to agents that plan, hold state, and call external tools. 
+A collection of agents built while working through the hands-on sections Google's **Develop Agents with Agent Development Kit (ADK)** learning path. Each folder maps to a stage of that path and builds from basic agents through to agents that plan, hold state, and call external tools. 
 
-Where the code contained differs to the code provided in the curriculum, there are typically comments to highlight where these changes have been made and why. Many of these were due to slight differences in the version of ADK and models used in the curriculum and those used by me throughout my study.
+Where the code contained differs to the code provided in the curriculum, comments have been included to highlight where these changes have been made and why. Many of these were due to slight differences in the version of ADK and models used in the curriculum and those used by me throughout my study.
 
 ## Repository Structure
 
@@ -13,7 +13,7 @@ Where the code contained differs to the code provided in the curriculum, there a
 | `03_manage_memory_and_state` | Session state, templating, persistence namespaces |
 | `04_add_capabilities_with_tools` | Search grounding, code execution, MCP, custom tools |
 
-Each agent folder contains an `agent.py` (or `root_agent.yaml` for config-based agents) plus any supporting test scripts.
+Each agent folder contains several agents within their own subfolders. Each subfolder contains an `agent.py` (or `root_agent.yaml` for config-based agents) plus any supporting resources and test scripts.
 
 ## 01. Getting Started
 
