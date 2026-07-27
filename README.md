@@ -64,7 +64,7 @@ Agents: `geography_assistant`, `math_assistant`, `research_assistant`, `file_rea
 
 ## Course & Reference Material
 
-This repo follows Google's public course and documentation for ADK:
+This repository follows Google's public course and documentation for ADK:
 
 - [Develop Agents with Agent Development Kit (ADK)](https://www.skills.google/paths/3545)
 
@@ -74,6 +74,11 @@ Official documentation referenced throughout:
 
 ## Prerequisites
 
-- Python 3.10+
-- `pip install google-adk`
-- A `GOOGLE_API_KEY` set in a local `.env` file per agent (not committed, see `.gitignore`)
+Because this is a beginner learning path, there are few prerequisite technologies or knowledge needed to begin. Aside from some basics listed below, all other necessary technologies and setup are covered in the first few sections of the learning path.
+
+- A working device like a laptop or desktop computer.
+- A reliable internet connection for online videos and interactive labs.
+- An updated web browser, preferably Google Chrome, for seamless access to cloud console exercises.
+- A free Google Account to sign in and track your course progress or digital badges.
+
+If you are completely new to AI and AI Agents, you might also find the precursor to this learning path useful to help ground your understanding of these technologies before beginning: [Introduction to Agents and Google’s Agent Ecosystem](https://www.skills.google/paths/3546).
