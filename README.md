@@ -1,4 +1,4 @@
-# Developing Agents with Google ADK
+# Develop Agents with Agent Development Kit (ADK)
 
 A collection of agents built while working through the hands-on sections of Google's **Develop Agents with Agent Development Kit (ADK)** learning path. Each folder maps to a stage of that path and builds from basic agents through to agents that plan, hold state, call external tools, and be trusted to work independently through complex requests.
 
